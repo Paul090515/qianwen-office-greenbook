@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 650" width="460" height="650" role="img" aria-labelledby="title desc">
+  <title id="title">开工前与交付后各检查一次</title>
+  <desc id="desc">先算清本次使用，再确认资料能恢复；绿色绿皮书原创教学图解。</desc>
+  <rect x="0" y="0" width="460" height="650" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="24" y="43" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">开工前与交付后各检查一次</text>
+  <text x="26" y="75" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">先算清本次使用，再确认资料能恢复</text>
+  <rect x="30" y="120" width="400" height="202" rx="18" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="66" cy="159" r="20" fill="#2F7653" stroke="none" stroke-width="2" />
+  <circle cx="66" cy="159" r="10" fill="#FFFFFF" stroke="none" stroke-width="2" />
+  <line x1="66" y1="159" x2="66" y2="151" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <line x1="66" y1="159" x2="73" y2="163" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <text x="98" y="158" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">开工前</text>
+  <text x="99" y="188" fill="#53645A" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">账号与用量</text>
+  <rect x="52" y="210" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#2F7653" stroke-width="2" />
+  <text x="83" y="225" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">账号权益是否可用</text>
+  <rect x="52" y="240" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#2F7653" stroke-width="2" />
+  <text x="83" y="255" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">试跑消耗记录下来</text>
+  <rect x="52" y="270" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#2F7653" stroke-width="2" />
+  <text x="83" y="285" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">运行频率符合需要</text>
+  <rect x="30" y="356" width="400" height="202" rx="18" fill="#E8EFE9" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="66" cy="395" r="20" fill="#173B2B" stroke="none" stroke-width="2" />
+  <path d="M 56 377 L 76 377 L 76 399 L 66 393 L 56 399 Z" fill="#FFFFFF" stroke="none" />
+  <text x="98" y="394" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">交付后</text>
+  <text x="99" y="424" fill="#53645A" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">资料与备份</text>
+  <rect x="52" y="446" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#173B2B" stroke-width="2" />
+  <text x="83" y="461" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">源文件是否保留</text>
+  <rect x="52" y="476" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#173B2B" stroke-width="2" />
+  <text x="83" y="491" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">引用资料能否找到</text>
+  <rect x="52" y="506" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#173B2B" stroke-width="2" />
+  <text x="83" y="521" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="start">备份文件能否打开</text>
+  <text x="230" y="604" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">保留好文件，并实际试开一次备份</text>
+</svg>

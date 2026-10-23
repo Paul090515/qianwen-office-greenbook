@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 610" width="460" height="610" role="img" aria-labelledby="title desc">
+  <title id="title">资料目录五个字段</title>
+  <desc id="desc">像整理档案一样，让资料找得到、用得对；绿色绿皮书原创教学图解。</desc>
+  <rect x="0" y="0" width="460" height="610" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="24" y="43" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">资料目录五个字段</text>
+  <text x="26" y="75" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">像整理档案一样，让资料找得到、用得对</text>
+  <rect x="28" y="110" width="404" height="414" rx="18" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <rect x="28" y="110" width="404" height="82" rx="18" fill="#173B2B" stroke="none" stroke-width="2" />
+  <rect x="28" y="171" width="404" height="21" rx="0" fill="#173B2B" stroke="none" stroke-width="2" />
+  <rect x="48" y="95" width="132" height="29" rx="8" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="52" y="158" fill="#FFFFFF" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">资料目录卡</text>
+  <rect x="47" y="211" width="366" height="48" rx="12" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="70" cy="235" r="15" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="70" y="241" fill="#FFFFFF" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">01</text>
+  <text x="101" y="233" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">名称</text>
+  <text x="215" y="241" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">这份资料叫什么</text>
+  <rect x="47" y="270" width="366" height="48" rx="12" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <circle cx="70" cy="294" r="15" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="70" y="300" fill="#FFFFFF" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">02</text>
+  <text x="101" y="292" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">来源</text>
+  <text x="215" y="300" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">由谁提供 / 哪个网址</text>
+  <rect x="47" y="329" width="366" height="48" rx="12" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="70" cy="353" r="15" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="70" y="359" fill="#FFFFFF" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">03</text>
+  <text x="101" y="351" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">版本</text>
+  <text x="215" y="359" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">日期或版本号</text>
+  <rect x="47" y="388" width="366" height="48" rx="12" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <circle cx="70" cy="412" r="15" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="70" y="418" fill="#FFFFFF" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">04</text>
+  <text x="101" y="410" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">适用范围</text>
+  <text x="215" y="418" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">能回答什么问题</text>
+  <rect x="47" y="447" width="366" height="48" rx="12" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="70" cy="471" r="15" fill="#173B2B" stroke="none" stroke-width="2" />
+  <text x="70" y="477" fill="#FFFFFF" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">05</text>
+  <text x="101" y="469" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">维护人</text>
+  <text x="215" y="477" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">谁负责更新</text>
+  <text x="230" y="566" fill="#53645A" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="middle">来源和版本写明白，旧资料不冒充新资料</text>
+</svg>

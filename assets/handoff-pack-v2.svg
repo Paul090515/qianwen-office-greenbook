@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 620" width="460" height="620" role="img" aria-labelledby="title desc">
+  <title id="title">交接包里放什么</title>
+  <desc id="desc">让接手的人知道结果、依据和下一步；绿色绿皮书原创教学图解。</desc>
+  <rect x="0" y="0" width="460" height="620" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="24" y="43" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">交接包里放什么</text>
+  <text x="26" y="75" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">让接手的人知道结果、依据和下一步</text>
+  <rect x="111" y="126" width="238" height="367" rx="22" fill="#D7EBDD" stroke="#2F7653" stroke-width="3" />
+  <rect x="139" y="150" width="182" height="311" rx="12" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <rect x="154" y="172" width="150" height="42" rx="10" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="229" y="200" fill="#FFFFFF" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">交接资料夹</text>
+  <rect x="153" y="237" width="154" height="38" rx="8" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="168" cy="256" r="5" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="181" y="261" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">最终文件</text>
+  <rect x="153" y="280" width="154" height="38" rx="8" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <circle cx="168" cy="299" r="5" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="181" y="304" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">原始依据</text>
+  <rect x="153" y="323" width="154" height="38" rx="8" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="168" cy="342" r="5" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="181" y="347" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">使用说明</text>
+  <rect x="153" y="366" width="154" height="38" rx="8" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <circle cx="168" cy="385" r="5" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="181" y="390" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">已检查内容</text>
+  <rect x="153" y="409" width="154" height="38" rx="8" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <circle cx="168" cy="428" r="5" fill="#D7A94B" stroke="none" stroke-width="2" />
+  <text x="181" y="433" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">待办问题</text>
+  <rect x="24" y="186" width="80" height="36" rx="12" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="64" y="210" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">结果</text>
+  <rect x="355" y="249" width="80" height="36" rx="12" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="395" y="273" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">依据</text>
+  <rect x="24" y="312" width="80" height="36" rx="12" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="64" y="336" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">说明</text>
+  <rect x="355" y="375" width="80" height="36" rx="12" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="395" y="399" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">检查</text>
+  <rect x="24" y="438" width="80" height="36" rx="12" fill="#F3EBD8" stroke="#D7A94B" stroke-width="2" />
+  <text x="64" y="462" fill="#173B2B" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">问题</text>
+  <text x="230" y="546" fill="#173B2B" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">最后把待办和负责人说清楚</text>
+</svg>

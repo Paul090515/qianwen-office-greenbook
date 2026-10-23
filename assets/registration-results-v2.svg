@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="760" viewBox="0 0 460 760" role="img" aria-labelledby="title desc">
+<title id="title">活动报名模拟数据净收款图</title>
+<desc id="desc">2026年7至9月和三个报名渠道的净收款比较，均为本书模拟数据，单位为元。</desc>
+<rect width="460" height="760" rx="26" fill="#F4FAF5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<text x="28" y="48" font-size="27" font-weight="750" text-anchor="start" fill="#173C2B">活动报名｜净收款</text>
+<text x="28" y="82" font-size="22" font-weight="600" text-anchor="start" fill="#496955">本书模拟数据 · 单位：元</text>
+<rect x="18" y="104" width="424" height="280" rx="22" fill="#FFFFFF" stroke="#C8DDCC" stroke-width="2"/>
+<text x="38" y="145" font-size="24" font-weight="700" text-anchor="start" fill="#173C2B">按月份</text>
+<text x="418" y="145" font-size="20" font-weight="600" text-anchor="end" fill="#496955">净收款</text>
+<text x="38" y="210" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">07月</text>
+<rect x="118" y="189" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="189" width="83" height="24" rx="12" fill="#20804F"/>
+<text x="418" y="210" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">1,909</text>
+<text x="38" y="278" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">08月</text>
+<rect x="118" y="257" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="257" width="162" height="24" rx="12" fill="#20804F"/>
+<text x="418" y="278" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">3,732</text>
+<text x="38" y="346" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">09月</text>
+<rect x="118" y="325" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="325" width="202" height="24" rx="12" fill="#20804F"/>
+<text x="418" y="346" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">4,652</text>
+<rect x="18" y="402" width="424" height="280" rx="22" fill="#FFFFFF" stroke="#C8DDCC" stroke-width="2"/>
+<text x="38" y="443" font-size="24" font-weight="700" text-anchor="start" fill="#173C2B">按报名渠道</text>
+<text x="418" y="443" font-size="20" font-weight="600" text-anchor="end" fill="#496955">净收款</text>
+<text x="38" y="508" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">活动室</text>
+<rect x="118" y="487" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="487" width="202" height="24" rx="12" fill="#43A66E"/>
+<text x="418" y="508" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">4,821</text>
+<text x="38" y="576" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">社区群</text>
+<rect x="118" y="555" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="555" width="125" height="24" rx="12" fill="#43A66E"/>
+<text x="418" y="576" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">2,972</text>
+<text x="38" y="644" font-size="22" font-weight="650" text-anchor="start" fill="#173C2B">图书馆</text>
+<rect x="118" y="623" width="202" height="24" rx="12" fill="#E2EFE4"/>
+<rect x="118" y="623" width="105" height="24" rx="12" fill="#43A66E"/>
+<text x="418" y="644" font-size="22" font-weight="600" text-anchor="end" fill="#173C2B">2,500</text>
+<text x="230" y="725" font-size="20" font-weight="600" text-anchor="middle" fill="#315B3F">实收 10,618 − 退款 325 = 净收款 10,293 元</text>
+</g></svg>

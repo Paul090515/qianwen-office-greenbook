@@ -1,14 +1,14 @@
 {
-  "version": "1.1",
-  "date": "2026-10-23",
-  "chapters": 15,
+  "version": "2.0",
+  "date": "2026-10-24",
+  "chapters": 23,
   "coverIcon": "assets/qwenwork-icon.png",
-  "contentsEntries": 15,
-  "hanCharacters": 26866,
-  "figures": 17,
-  "prompts": 19,
-  "sourceUrls": 43,
-  "htmlBytes": 1070613,
+  "contentsEntries": 23,
+  "hanCharacters": 40980,
+  "figures": 26,
+  "prompts": 33,
+  "sourceUrls": 42,
+  "htmlBytes": 1345439,
   "sections": [
     {
       "title": "今天要交的东西",
@@ -16,73 +16,113 @@
       "file": "01-choose.md"
     },
     {
-      "title": "一张工作单",
+      "title": "找到适合自己的入口",
       "id": "task-2",
+      "file": "17-entry.md"
+    },
+    {
+      "title": "一张工作单",
+      "id": "task-3",
       "file": "02-work-order.md"
     },
     {
+      "title": "看懂助手正在做什么",
+      "id": "task-4",
+      "file": "18-observe.md"
+    },
+    {
+      "title": "把材料交清楚",
+      "id": "task-5",
+      "file": "19-materials.md"
+    },
+    {
       "title": "写出可以修改的文档",
-      "id": "task-3",
+      "id": "task-6",
       "file": "05-documents.md"
     },
     {
       "title": "让一张表把情况说清楚",
-      "id": "task-4",
+      "id": "task-7",
       "file": "06-data.md"
     },
     {
       "title": "把流程讲给别人听",
-      "id": "task-5",
+      "id": "task-8",
       "file": "07-slides.md"
     },
     {
       "title": "查资料时把证据留下",
-      "id": "task-6",
+      "id": "task-9",
       "file": "08-research.md"
     },
     {
       "title": "整理经得起追问的记录",
-      "id": "task-7",
+      "id": "task-10",
       "file": "03-records.md"
     },
     {
       "title": "做出可以预览的宣传内容",
-      "id": "task-8",
+      "id": "task-11",
       "file": "12-media-web.md"
     },
     {
+      "title": "把复杂事情分成几次交付",
+      "id": "task-12",
+      "file": "20-stages.md"
+    },
+    {
+      "title": "给常用资料做一本活目录",
+      "id": "task-13",
+      "file": "21-library.md"
+    },
+    {
       "title": "同一件事下次少说一点",
-      "id": "task-9",
+      "id": "task-14",
       "file": "09-reuse.md"
     },
     {
       "title": "从外部工具取资料",
-      "id": "task-10",
+      "id": "task-15",
       "file": "10-connections-safety.md"
     },
     {
       "title": "让重复小事按时开始",
-      "id": "task-11",
+      "id": "task-16",
       "file": "11-schedules-im.md"
     },
     {
+      "title": "让同事接得住你的成果",
+      "id": "task-17",
+      "file": "22-handoff.md"
+    },
+    {
       "title": "换成你的岗位",
-      "id": "task-12",
+      "id": "task-18",
       "file": "13-projects.md"
     },
     {
+      "title": "走完一个共享工具角小项目",
+      "id": "task-19",
+      "file": "23-tool-project.md"
+    },
+    {
+      "title": "把费用和备份算明白",
+      "id": "task-20",
+      "file": "24-budget.md"
+    },
+    {
       "title": "卡住时按顺序排查",
-      "id": "task-13",
+      "id": "task-21",
       "file": "14-troubleshooting.md"
     },
     {
       "title": "七个二十分钟小挑战",
-      "id": "task-14",
+      "id": "task-22",
       "file": "15-learning-plan.md"
     },
     {
       "title": "登录与常用词",
-      "id": "task-15",
+      "id": "task-23",
       "file": "16-desk-reference.md"
     }
   ]

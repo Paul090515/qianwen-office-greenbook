@@ -4,6 +4,9 @@
 
 - 在线阅读：[千问办公绿皮书](https://paul090515.github.io/qianwen-office-greenbook/)
 - 项目仓库：[qianwen-office-greenbook](https://github.com/Paul090515/qianwen-office-greenbook)
+- [可编辑文稿](千问办公绿皮书.md) · [下载文稿与完整配图 ZIP](千问办公绿皮书_可编辑稿与配图.zip)
+
+资料核查日：2026 年 10 月 24 日。
 
 ## 离线阅读与编辑
 

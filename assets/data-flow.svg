@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">活动收款算清</title>
+  <desc id="desc">完成记录｜单位：元；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">活动收款算清</text>
+  <text x="30" y="74" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="450" text-anchor="start">完成记录｜单位：元</text>
+  <rect x="25" y="98" width="410" height="75" rx="17" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="230" y="127" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">实收 10618  −  退款 325</text>
+  <text x="230" y="156" fill="#1D2923" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">= 净收款 10293（不是利润）</text>
+  <line x1="56" y1="438" x2="404" y2="438" stroke="#53645A" stroke-width="2" stroke-linecap="round" />
+  <rect x="75" y="361" width="68" height="77" rx="10" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="109" y="348" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">1909</text>
+  <text x="109" y="467" fill="#1D2923" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">7月</text>
+  <rect x="196" y="287" width="68" height="151" rx="10" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="230" y="274" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">3732</text>
+  <text x="230" y="467" fill="#1D2923" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">8月</text>
+  <rect x="317" y="250" width="68" height="188" rx="10" fill="#173B2B" stroke="none" stroke-width="2" />
+  <text x="351" y="237" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">4652</text>
+  <text x="351" y="467" fill="#1D2923" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">9月</text>
+  <text x="230" y="505" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="600" text-anchor="middle">取消 1 条排除｜纳入 11 条</text>
+  <rect x="27" y="548" width="406" height="27" rx="13" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="568" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">按顺序找原因</title>
+  <desc id="desc">一次只检查一处，保护原文件；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">按顺序找原因</text>
+  <text x="30" y="74" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="450" text-anchor="start">一次只检查一处，保护原文件</text>
+  <circle cx="52" cy="131" r="21" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="52" y="138" fill="#FFFFFF" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">1</text>
+  <rect x="88" y="104" width="339" height="61" rx="15" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="106" y="129" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">账号与入口</text>
+  <text x="106" y="153" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">是否进对空间？</text>
+  <line x1="52" y1="153" x2="52" y2="184" stroke="#A9C5B1" stroke-width="3" stroke-linecap="round" />
+  <path d="M 47 177 L 52 185 L 57 177" stroke="#2F7653" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="52" cy="215" r="21" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="52" y="222" fill="#FFFFFF" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">2</text>
+  <rect x="88" y="188" width="339" height="61" rx="15" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="106" y="213" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">任务状态</text>
+  <text x="106" y="237" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">还在运行或已失败？</text>
+  <line x1="52" y1="237" x2="52" y2="268" stroke="#A9C5B1" stroke-width="3" stroke-linecap="round" />
+  <path d="M 47 261 L 52 269 L 57 261" stroke="#2F7653" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="52" cy="299" r="21" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="52" y="306" fill="#FFFFFF" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">3</text>
+  <rect x="88" y="272" width="339" height="61" rx="15" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="106" y="297" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">材料与权限</text>
+  <text x="106" y="321" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">文件、连接器授权？</text>
+  <line x1="52" y1="321" x2="52" y2="352" stroke="#A9C5B1" stroke-width="3" stroke-linecap="round" />
+  <path d="M 47 345 L 52 353 L 57 345" stroke="#2F7653" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="52" cy="383" r="21" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="52" y="390" fill="#FFFFFF" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">4</text>
+  <rect x="88" y="356" width="339" height="61" rx="15" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="106" y="381" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">用量与网络</text>
+  <text x="106" y="405" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">额度、联网、更新？</text>
+  <line x1="52" y1="405" x2="52" y2="436" stroke="#A9C5B1" stroke-width="3" stroke-linecap="round" />
+  <path d="M 47 429 L 52 437 L 57 429" stroke="#2F7653" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="52" cy="467" r="21" fill="#173B2B" stroke="none" stroke-width="2" />
+  <text x="52" y="474" fill="#FFFFFF" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">5</text>
+  <rect x="88" y="440" width="339" height="61" rx="15" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="106" y="465" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">作品与反馈</text>
+  <text x="106" y="489" fill="#1D2923" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">先备份，再修复/反馈</text>
+  <rect x="27" y="548" width="406" height="27" rx="13" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="568" fill="#173B2B" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

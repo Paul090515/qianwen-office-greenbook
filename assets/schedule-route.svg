@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">先分清任务跑在哪</title>
+  <desc id="desc">云端任务与本机连接器；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">先分清任务跑在哪</text>
+  <text x="30" y="74" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="450" text-anchor="start">云端任务与本机连接器</text>
+  <circle cx="230" cy="119" r="30" fill="#173B2B" stroke="none" stroke-width="2" />
+  <text x="230" y="127" fill="#FFFFFF" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">任务</text>
+  <line x1="230" y1="151" x2="230" y2="180" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <line x1="230" y1="180" x2="109" y2="210" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <line x1="230" y1="180" x2="351" y2="210" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <path d="M 118 202 L 105 212 L 120 217" stroke="#2F7653" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 340 217 L 355 212 L 342 202" stroke="#2F7653" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="28" y="225" width="190" height="200" rx="18" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <rect x="242" y="225" width="190" height="200" rx="18" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="123" y="260" fill="#173B2B" font-size="24" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="middle">云端</text>
+  <text x="123" y="294" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="middle">搜索、整理</text>
+  <text x="123" y="325" fill="#53645A" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="middle">通常无需电脑开着</text>
+  <circle cx="123" cy="371" r="19" fill="#2F7653" stroke="none" stroke-width="2" />
+  <path d="M 123 359 L 123 371 L 133 377" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="337" y="260" fill="#173B2B" font-size="24" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="middle">本机</text>
+  <text x="337" y="294" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="550" text-anchor="middle">浏览器、桌面操作</text>
+  <text x="337" y="325" fill="#53645A" font-size="17" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="middle">唤醒 + 联网 + 权限</text>
+  <rect x="71" y="457" width="318" height="55" rx="15" fill="#F3EBD8" stroke="#D7A94B" stroke-width="2" />
+  <text x="230" y="491" fill="#173B2B" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">先确认依赖，再设定时</text>
+  <rect x="27" y="548" width="406" height="27" rx="13" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="568" fill="#173B2B" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

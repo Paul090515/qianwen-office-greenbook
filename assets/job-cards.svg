@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">四种具体交付</title>
+  <desc id="desc">岗位不同，检查方法可以共用；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="750" text-anchor="start">四种具体交付</text>
+  <text x="30" y="76" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" text-anchor="start">岗位不同，检查方法可以共用</text>
+  <rect x="25" y="106" width="198" height="104" rx="16" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="44" y="149" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">行政接待</text>
+  <text x="42" y="184" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="550" text-anchor="start">访客到访清单</text>
+  <rect x="237" y="106" width="198" height="104" rx="16" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="256" y="149" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">门店补货</text>
+  <text x="254" y="184" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="550" text-anchor="start">补货核对表</text>
+  <rect x="25" y="230" width="198" height="104" rx="16" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <text x="44" y="273" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">内容留言</text>
+  <text x="42" y="308" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="550" text-anchor="start">留言分类与选题</text>
+  <rect x="237" y="230" width="198" height="104" rx="16" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="256" y="273" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">培训练习</text>
+  <text x="254" y="308" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="550" text-anchor="start">练习题与答案</text>
+  <line x1="230" y1="348" x2="230" y2="372" stroke="#2F7653" stroke-width="3" stroke-linecap="round" />
+  <path d="M 223 365 L 230 374 L 237 365" stroke="#2F7653" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="29" y="383" width="402" height="139" rx="17" fill="#D7EBDD" stroke="#2F7653" stroke-width="2" />
+  <text x="230" y="416" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="750" text-anchor="middle">共用交付检查</text>
+  <text x="230" y="453" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" text-anchor="middle">事实准确 · 对象清楚</text>
+  <text x="230" y="484" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" text-anchor="middle">缺项标记 · 草稿待审</text>
+  <rect x="27" y="548" width="406" height="29" rx="14" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="570" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

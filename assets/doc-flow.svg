@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">材料变成 Word</title>
+  <desc id="desc">先整理内容，再检查并交付；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">材料变成 Word</text>
+  <text x="30" y="74" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="450" text-anchor="start">先整理内容，再检查并交付</text>
+  <circle cx="55" cy="154" r="23" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="55" y="162" fill="#FFFFFF" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">1</text>
+  <rect x="91" y="132" width="335" height="64" rx="16" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="111" y="159" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">原材料</text>
+  <text x="111" y="183" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">活动资料、要点</text>
+  <line x1="55" y1="179" x2="55" y2="242" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <path d="M 48 234 L 55 244 L 62 234" stroke="#2F7653" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="55" cy="250" r="23" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="55" y="258" fill="#FFFFFF" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">2</text>
+  <rect x="91" y="228" width="335" height="64" rx="16" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="111" y="255" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">清理结构</text>
+  <text x="111" y="279" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">分段、列提纲</text>
+  <line x1="55" y1="275" x2="55" y2="338" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <path d="M 48 330 L 55 340 L 62 330" stroke="#2F7653" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="55" cy="346" r="23" fill="#2F7653" stroke="none" stroke-width="2" />
+  <text x="55" y="354" fill="#FFFFFF" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">3</text>
+  <rect x="91" y="324" width="335" height="64" rx="16" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <text x="111" y="351" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">人工核对</text>
+  <text x="111" y="375" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">日期、地点、规则</text>
+  <line x1="55" y1="371" x2="55" y2="434" stroke="#2F7653" stroke-width="4" stroke-linecap="round" />
+  <path d="M 48 426 L 55 436 L 62 426" stroke="#2F7653" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="55" cy="442" r="23" fill="#173B2B" stroke="none" stroke-width="2" />
+  <text x="55" y="450" fill="#FFFFFF" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="middle">4</text>
+  <rect x="91" y="420" width="335" height="64" rx="16" fill="#D7EBDD" stroke="#A9C5B1" stroke-width="2" />
+  <text x="111" y="447" fill="#173B2B" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">可编辑文件</text>
+  <text x="111" y="471" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">Word 草稿</text>
+  <text x="230" y="520" fill="#173B2B" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">缺少的事实 → 标“待确认”</text>
+  <rect x="27" y="548" width="406" height="27" rx="13" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="568" fill="#173B2B" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

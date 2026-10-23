@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">按任务选择入口</title>
+  <desc id="desc">材料在哪里，决定从哪儿开始；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="750" text-anchor="start">按任务选择入口</text>
+  <text x="30" y="76" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" text-anchor="start">材料在哪里，决定从哪儿开始</text>
+  <rect x="27" y="111" width="406" height="99" rx="17" fill="#E7F2EA" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="61" cy="160" r="20" fill="#2F7653" />
+  <text x="61" y="168" fill="#FFFFFF" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="middle">1</text>
+  <text x="96" y="147" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">网页端</text>
+  <text x="96" y="176" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" text-anchor="start">上传材料</text>
+  <text x="96" y="200" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" text-anchor="start">适合浏览器里的任务</text>
+  <rect x="27" y="232" width="406" height="99" rx="17" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="61" cy="281" r="20" fill="#173B2B" />
+  <text x="61" y="289" fill="#FFFFFF" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="middle">2</text>
+  <text x="96" y="268" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">桌面端</text>
+  <text x="96" y="297" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" text-anchor="start">本机文件、电脑操作</text>
+  <text x="96" y="321" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" text-anchor="start">需对应系统权限</text>
+  <rect x="27" y="353" width="406" height="99" rx="17" fill="#F3EBD8" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="61" cy="402" r="20" fill="#A2762A" />
+  <text x="61" y="410" fill="#FFFFFF" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="middle">3</text>
+  <text x="96" y="389" fill="#173B2B" font-size="23" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" text-anchor="start">钉钉入口</text>
+  <text x="96" y="418" fill="#1D2923" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" text-anchor="start">在协作场景中打开</text>
+  <text x="96" y="442" fill="#53645A" font-size="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" text-anchor="start">入口位置可能因账号而异</text>
+  <rect x="27" y="477" width="406" height="53" rx="15" fill="#D7EBDD" stroke="#A9C5B1" stroke-width="2" />
+  <text x="230" y="510" fill="#173B2B" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="650" text-anchor="middle">可用入口与功能视账号权限</text>
+  <rect x="27" y="548" width="406" height="29" rx="14" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="570" fill="#173B2B" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

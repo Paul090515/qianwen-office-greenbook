@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 590" width="460" height="590" role="img" aria-labelledby="title desc">
+  <title id="title">选对复用方式</title>
+  <desc id="desc">方法、能力、偏好各有位置；本书原创教学示意。</desc>
+  <rect x="0" y="0" width="460" height="590" rx="0" fill="#F5F8F4" stroke="none" stroke-width="2" />
+  <text x="28" y="44" fill="#173B2B" font-size="27" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="750" text-anchor="start">选对复用方式</text>
+  <text x="30" y="74" fill="#53645A" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="450" text-anchor="start">方法、能力、偏好各有位置</text>
+  <rect x="29" y="108" width="402" height="105" rx="18" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <rect x="47" y="130" width="39" height="56" rx="5" fill="#E7F2EA" stroke="#2F7653" stroke-width="2" />
+  <line x1="56" y1="147" x2="77" y2="147" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <line x1="56" y1="158" x2="77" y2="158" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <line x1="56" y1="169" x2="72" y2="169" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <text x="106" y="146" fill="#173B2B" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">技能</text>
+  <text x="106" y="177" fill="#2F7653" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="start">固定步骤</text>
+  <text x="106" y="202" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">像菜谱：每次照流程</text>
+  <rect x="29" y="244" width="402" height="105" rx="18" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <circle cx="66" cy="294" r="13" fill="#2F7653" stroke="none" stroke-width="2" />
+  <circle cx="50" cy="278" r="7" fill="#D7A94B" stroke="none" stroke-width="2" />
+  <circle cx="82" cy="278" r="7" fill="#173B2B" stroke="none" stroke-width="2" />
+  <circle cx="50" cy="312" r="7" fill="#173B2B" stroke="none" stroke-width="2" />
+  <circle cx="82" cy="312" r="7" fill="#D7A94B" stroke="none" stroke-width="2" />
+  <line x1="57" y1="286" x2="61" y2="290" stroke="#A9C5B1" stroke-width="2" stroke-linecap="round" />
+  <line x1="75" y1="290" x2="79" y2="286" stroke="#A9C5B1" stroke-width="2" stroke-linecap="round" />
+  <line x1="57" y1="304" x2="61" y2="300" stroke="#A9C5B1" stroke-width="2" stroke-linecap="round" />
+  <line x1="75" y1="300" x2="79" y2="304" stroke="#A9C5B1" stroke-width="2" stroke-linecap="round" />
+  <text x="106" y="282" fill="#173B2B" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">专家套件</text>
+  <text x="106" y="313" fill="#2F7653" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="start">能力组合</text>
+  <text x="106" y="338" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">像工具箱：多种工具</text>
+  <rect x="29" y="380" width="402" height="105" rx="18" fill="#FFFFFF" stroke="#A9C5B1" stroke-width="2" />
+  <path d="M 48 412 Q 66 397 84 412 L 84 455 Q 66 444 48 455 Z" stroke="#2F7653" stroke-width="3" fill="#E7F2EA" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="66" y1="408" x2="66" y2="453" stroke="#2F7653" stroke-width="2" stroke-linecap="round" />
+  <text x="106" y="418" fill="#173B2B" font-size="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="700" text-anchor="start">意识</text>
+  <text x="106" y="449" fill="#2F7653" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="start">个人偏好</text>
+  <text x="106" y="474" fill="#1D2923" font-size="18" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="500" text-anchor="start">像便签：长期记住</text>
+  <text x="230" y="526" fill="#173B2B" font-size="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">流程写入技能｜偏好写入意识</text>
+  <rect x="27" y="548" width="406" height="27" rx="13" fill="#E7F2EA" stroke="none" stroke-width="2" />
+  <text x="230" y="568" fill="#173B2B" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-weight="650" text-anchor="middle">本书原创教学示意</text>
+</svg>

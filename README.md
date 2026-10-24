@@ -4,12 +4,15 @@
 
 - [直接在线阅读绿皮书](https://paul090515.github.io/qianwen-office-greenbook/)
 - [下载 Skill 完整 ZIP](https://paul090515.github.io/qianwen-office-greenbook/qianwen-office-greenbook-skill.zip)
+- [下载 WorkBuddy 开放平台专用 ZIP（解压后小于3MB）](https://paul090515.github.io/qianwen-office-greenbook/qianwen-office-greenbook-workbuddy.zip)
 - [下载完整图文阅读资料包](https://paul090515.github.io/qianwen-office-greenbook/千问办公绿皮书2.0_完整图文资料包.zip)
 - [查看 Skill 指令](SKILL.md) · [可编辑文稿](千问办公绿皮书.md)
 
 当前书稿为2.0版，含23篇正文、26幅正文配图（封面另有官方图标）、33段可复制示例与要求，两套原创模拟练习。产品资料核查日为2026年10月24日；本次封装 Skill 沿用该书稿。
 
 ## 安装与调用
+
+**上传 WorkBuddy 开放平台：** 下载上方专用 ZIP，在“配置技能”中上传整个压缩包，无需先解压。该包补齐平台要求的中英文名称、描述和版本信息；完整保留正文、图片、练习和构建工具，通过共用一份完整网页满足解压后3MB的限制。解压阅读时打开 `千问办公绿皮书.html`，或通过 `index.html` 自动进入同一本书。两个文件请保留在同一目录。Codex 安装继续使用原“Skill 完整 ZIP”。
 
 下载 Skill ZIP 并解压，把其中完整的 `qianwen-office-greenbook` 文件夹放到本地 Codex 的 `~/.codex/skills/` 目录，保留文件夹内所有文件；已存在同名文件夹时先保留旧版，避免直接覆盖。Skill 名为 `$qianwen-office-greenbook`。
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "千问办公绿皮书"
+  short_description: "面向零基础读者，查阅办公方法并维护绿色图文手册、模拟练习与配套包"
+  default_prompt: "使用 $qianwen-office-greenbook，根据我的任务解释千问办公方法，或更新并核验绿皮书的图文网页和配套资料。"

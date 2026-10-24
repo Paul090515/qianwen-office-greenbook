@@ -1,0 +1,145 @@
+{
+  "version": "2.0",
+  "checkedAt": "2026-10-24",
+  "edition": "第二版 · 原创教学版",
+  "chapters": [
+    {
+      "file": "01-choose.md",
+      "title": "今天要交的东西",
+      "subtitle": "先选一件能核对的小事",
+      "group": "先把第一件事做稳"
+    },
+    {
+      "file": "17-entry.md",
+      "title": "找到适合自己的入口",
+      "subtitle": "网页 电脑与钉钉怎样选",
+      "group": "先把第一件事做稳"
+    },
+    {
+      "file": "02-work-order.md",
+      "title": "一张工作单",
+      "subtitle": "目标 材料 交付和核对方法",
+      "group": "先把第一件事做稳"
+    },
+    {
+      "file": "18-observe.md",
+      "title": "看懂助手正在做什么",
+      "subtitle": "分清准备执行与实际完成",
+      "group": "先把第一件事做稳"
+    },
+    {
+      "file": "19-materials.md",
+      "title": "把材料交清楚",
+      "subtitle": "版本 冲突与实际读取范围",
+      "group": "先把第一件事做稳"
+    },
+    {
+      "file": "05-documents.md",
+      "title": "写出可以修改的文档",
+      "subtitle": "通知 说明与周报",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "06-data.md",
+      "title": "让一张表把情况说清楚",
+      "subtitle": "活动报名数据 附完整答案",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "07-slides.md",
+      "title": "把流程讲给别人听",
+      "subtitle": "从大纲到可以播放的演示",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "08-research.md",
+      "title": "查资料时把证据留下",
+      "subtitle": "场地比较和文件问答",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "03-records.md",
+      "title": "整理经得起追问的记录",
+      "subtitle": "分清原话 意见和待办",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "12-media-web.md",
+      "title": "做出可以预览的宣传内容",
+      "subtitle": "图片 短片和活动网页",
+      "group": "让成果经得起检查"
+    },
+    {
+      "file": "20-stages.md",
+      "title": "把复杂事情分成几次交付",
+      "subtitle": "先核材料 再做成品",
+      "group": "把一次工作变成可靠方法"
+    },
+    {
+      "file": "21-library.md",
+      "title": "给常用资料做一本活目录",
+      "subtitle": "来源 版本 适用范围与维护",
+      "group": "把一次工作变成可靠方法"
+    },
+    {
+      "file": "09-reuse.md",
+      "title": "同一件事下次少说一点",
+      "subtitle": "保存公告方法与协作偏好",
+      "group": "把一次工作变成可靠方法"
+    },
+    {
+      "file": "10-connections-safety.md",
+      "title": "从外部工具取资料",
+      "subtitle": "连接器 电脑操作和权限",
+      "group": "把一次工作变成可靠方法"
+    },
+    {
+      "file": "11-schedules-im.md",
+      "title": "让重复小事按时开始",
+      "subtitle": "定时简报和聊天入口",
+      "group": "把一次工作变成可靠方法"
+    },
+    {
+      "file": "22-handoff.md",
+      "title": "让同事接得住你的成果",
+      "subtitle": "文件 依据 使用说明与待办",
+      "group": "交接与综合练习"
+    },
+    {
+      "file": "13-projects.md",
+      "title": "换成你的岗位",
+      "subtitle": "四张可以动手的原创任务卡",
+      "group": "交接与综合练习"
+    },
+    {
+      "file": "23-tool-project.md",
+      "title": "走完一个共享工具角小项目",
+      "subtitle": "从借还记录到完整交接包",
+      "group": "交接与综合练习"
+    },
+    {
+      "file": "24-budget.md",
+      "title": "把费用和备份算明白",
+      "subtitle": "先试小样 再估消耗 留好副本",
+      "group": "交接与综合练习"
+    },
+    {
+      "file": "14-troubleshooting.md",
+      "title": "卡住时按顺序排查",
+      "subtitle": "先找原因 再决定如何处理",
+      "group": "随手查与继续练习"
+    },
+    {
+      "file": "15-learning-plan.md",
+      "title": "七个二十分钟小挑战",
+      "subtitle": "任选一项 带走一份小成果",
+      "group": "随手查与继续练习"
+    },
+    {
+      "file": "16-desk-reference.md",
+      "title": "登录与常用词",
+      "subtitle": "三种入口 文件格式和官方资料",
+      "group": "随手查与继续练习"
+    }
+  ]
+}

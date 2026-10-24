@@ -1,0 +1,11 @@
+{
+  "name": "qianwen-office-greenbook",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "marked": "17.0.5"
+  }
+}
